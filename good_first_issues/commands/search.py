@@ -180,4 +180,4 @@ def search(
     )
 
     console.print(f"Remaining requests:dash:: {rate_limit}", style="bold green")
-    console.print("Happy Hacking :tada::zap::rocket:", style="bold blue")
+    console.print("Happy Hacking :fire::tada::zap::rocket:", style="bold blue")
